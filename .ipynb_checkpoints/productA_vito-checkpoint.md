@@ -4,10 +4,10 @@
 <h3 align="center" style="color:#00A8A8; font-weight:400;">Connect. Monitor. Care.</h3>
 
 <p align="center">
-  <img src="vito_logo.jpg" width="150" alt="Vito Collar Icon">
+  <img src="vito_logo.png" width="250" alt="Vito Collar Icon">
 </p>
 
----
+--- 
 
 ## 💡 Collar Features
 
