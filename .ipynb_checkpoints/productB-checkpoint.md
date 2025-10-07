@@ -1,8 +1,6 @@
 # PetPulse
 
-<div align="center">
-  <img src="petpulse-logo.png" alt="PetPulse Logo" width="400">
-</div>
+<img src="https://github.com/carolinecummings19/comm4190_F25_Product_Task/blob/main/petpulse_logo.jpg" alt="Logo" width="50%">
 
 **PetPulse** - Your Dog's Health Guardian
 
