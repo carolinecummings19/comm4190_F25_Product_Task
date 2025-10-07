@@ -1,6 +1,6 @@
 # PetPulse
 
-![Logo](https://github.com/carolinecummings19/comm4190_F25_Product_Task/blob/main/petpulse_logo.jpg)[50%]
+![Logo](https://github.com/carolinecummings19/comm4190_F25_Product_Task/blob/main/petpulse_logo.jpg){width=50%}
 
 **PetPulse** - Your Dog's Health Guardian
 
